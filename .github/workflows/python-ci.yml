@@ -1,4 +1,4 @@
-name: Python CI
+name: My First CI Pipeline
 
 on:
   push:
